@@ -1,4 +1,4 @@
-# code-for-measure-time-laps-intensity-of-curved-microtubule-in-Fiji
+# measure-intensity-of-curved-microtubule-in-Fiji
 
 #This code is for measuring flourescence intensity in curved selection region of filaments in Fiji. Open Fiji-ImageJ, select curved part of interests and run following code in Plugins >> New >> Macro
 
